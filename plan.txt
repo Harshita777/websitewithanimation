@@ -1,0 +1,7 @@
+1. init project
+2. setup tailwind
+3. Create navbar
+4. create components for header
+5. create body components
+6 .create footer
+7. add animations
