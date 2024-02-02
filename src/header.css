@@ -1,0 +1,22 @@
+.first-heading{
+    font-family: 'Inter', sans-serif;
+    font-size: 200px;
+}
+.first-subheading{
+    font-family: 'Inter', sans-serif;
+}
+.second-heading{
+    font-family: 'Inter', sans-serif;
+}
+.second-subheading{
+    font-family: 'Inter', sans-serif;
+
+}
+.header-image{
+    height: 300px;
+    width: 400px;
+}
+.paragraph{
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+}
