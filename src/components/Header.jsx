@@ -4,8 +4,8 @@ const Header = () => {
   return (
     <div className=" container mx-auto max-w-5xl ">
       <div>
-        <div>
-          <h1 className="first-heading  text-center mt-32  bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent ">Creating</h1>
+        <div className="first-heading">
+          <h1 className="  text-center mt-32  bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent ">Creating</h1>
         </div>
         <div className="first-subheading text-center text-5xl">
           <h5>Discerning Digital Works and <br/>Communication Collaterals</h5>
