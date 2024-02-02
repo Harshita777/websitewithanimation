@@ -1,21 +1,25 @@
 .parent-container {
-    height: 100%; 
-    width: 100%; 
-    font-family: 'Inter', sans-serif;
-  }
-.heading-one{
-    background-color: #171717;
-    width: 250px;
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
 }
-.heading-two{
-    background-color: #171717;
-    width: 750px;
-    height: 396px;
+.heading-one {
+  background-color: #171717;
+  width: 250px;
 }
-.paragraph{
-    color: #A2A2A2;
-    font-weight: lighter;
+.heading-two {
+  background-color: #171717;
+  width: 750px;
+  height: 396px;
 }
-.button{
-    border-color: #3A3A3A;
+.paragraph {
+  color: #a2a2a2;
+  font-weight: lighter;
+}
+.button {
+  border-color: #3a3a3a;
+}
+.glow-border {
+  border-top: 8px solid #98d2a5;
+  box-shadow: 0px 5px 15px #98d2a5;
 }

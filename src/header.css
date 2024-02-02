@@ -1,22 +1,21 @@
-.first-heading{
-    font-family: 'Inter', sans-serif;
-    font-size: 150px;
+.first-heading {
+  font-family: "Inter", sans-serif;
+  font-size: 150px;
 }
-.first-subheading{
-    font-family: 'Inter', sans-serif;
+.first-subheading {
+  font-family: "Inter", sans-serif;
 }
-.second-heading{
-    font-family: 'Inter', sans-serif;
+.second-heading {
+  font-family: "Inter", sans-serif;
 }
-.second-subheading{
-    font-family: 'Inter', sans-serif;
-
+.second-subheading {
+  font-family: "Inter", sans-serif;
 }
-.header-image{
-    height: 300px;
-    width: 400px;
+.header-image {
+  height: 400px;
+  width: 700px;
 }
-.paragraph{
-    font-family: 'Inter', sans-serif;
-    font-weight: lighter;
+.paragraph {
+  font-family: "Inter", sans-serif;
+  font-weight: lighter;
 }

@@ -1,7 +1,10 @@
-.first-heading{
-    
-    font-size: 150px;
+.first-heading {
+  font-size: 150px;
 }
-.section{
-    font-family: 'Inter', sans-serif;
+.section {
+  font-family: "Inter", sans-serif;
+}
+.header-image {
+  width: 100%;
+  height: 500px;
 }
