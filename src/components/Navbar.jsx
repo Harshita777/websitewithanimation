@@ -65,11 +65,11 @@ const Navbar = () => {
                 transition: { duration: 0.3 },
               }}
             >
-              <div className="flex justify-center gap-2 items-center bg-yellow-400 border-black rounded text-black h-10 w-40 hover:bg-yellow-500">
-                <div className="">
-                  <TfiEmail className="" />
+              <div className="button flex justify-center gap-2 items-center bg-yellow-400 border-black rounded text-black h-10 w-40 hover:bg-yellow-500">
+                <div >
+                  <TfiEmail  />
                 </div>
-                <div>START A PROJECT</div>
+                <div >START A PROJECT</div>
               </div>
             </motion.li>
           </ul>

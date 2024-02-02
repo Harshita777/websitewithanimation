@@ -1,6 +1,6 @@
 .first-heading {
   font-family: "Inter", sans-serif;
-  font-size: 150px;
+  font-size: 250px;
 }
 .first-subheading {
   font-family: "Inter", sans-serif;
@@ -18,4 +18,10 @@
 .paragraph {
   font-family: "Inter", sans-serif;
   font-weight: lighter;
+}
+.gradient-text {
+  background-image: linear-gradient(to right, blue, purple, pink);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }

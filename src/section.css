@@ -8,3 +8,9 @@
   width: 100%;
   height: 500px;
 }
+/* .gradient-text {
+  background-image: linear-gradient(to right, blue, purple, pink);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+} */

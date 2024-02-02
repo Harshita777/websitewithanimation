@@ -35,7 +35,7 @@ const Header = () => {
       <div>
         <div className="first-heading">
           <motion.h1
-            className="text-center mt-32 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent"
+            className="text-center mt-20 gradient-text bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent"
             initial={{ opacity: 0, x: -200 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 2 }}
@@ -43,7 +43,7 @@ const Header = () => {
             Creating
           </motion.h1>
         </div>
-        <div className="first-subheading text-center text-5xl">
+        <div className="first-subheading text-center text-5xl ">
           <motion.h5
             initial={{ opacity: 0, x: 200 }}
             animate={{ opacity: 1, x: 0 }}
@@ -57,7 +57,7 @@ const Header = () => {
       <div className="flex justify-between gap-12 mt-56">
         <div className="body text-start mt-24">
           <motion.h1
-            className="second-heading bg-gradient-to-r from-purple-500 via-blue-500 to-pink-500 bg-clip-text text-transparent text-9xl"
+            className="second-heading gradient-text bg-gradient-to-r from-purple-500 via-blue-500 to-pink-500 bg-clip-text text-transparent text-9xl"
             initial={{ opacity: 0, x: -100 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 2, delay: 1.5 }}

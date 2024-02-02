@@ -59,7 +59,7 @@ const Section = () => {
       </motion.div>
       <div className="text-end pt-9">
         <motion.h1
-          className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent text-8xl"
+          className="gradient-text bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent text-8xl"
           initial={{ y: -100, opacity: 0 }}
           animate={controls}
           transition={{ duration: 2, delay: 2 }}
