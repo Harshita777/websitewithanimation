@@ -13,7 +13,7 @@ const Navbar = () => {
     >
       <div className="flex justify-between container mx-auto max-w-5xl">
         <div className="h-20 w-20 navbar-logo p-2">
-          <img src={logo} alt="logo" />
+          <img className="border rounded-full" src={logo} alt="logo" />
         </div>
         <div className="">
           <ul className="flex gap-4 list-none">
@@ -66,10 +66,10 @@ const Navbar = () => {
               }}
             >
               <div className="button flex justify-center gap-2 items-center bg-yellow-400 border-black rounded text-black h-10 w-40 hover:bg-yellow-500">
-                <div >
-                  <TfiEmail  />
+                <div>
+                  <TfiEmail />
                 </div>
-                <div >START A PROJECT</div>
+                <div>START A PROJECT</div>
               </div>
             </motion.li>
           </ul>
